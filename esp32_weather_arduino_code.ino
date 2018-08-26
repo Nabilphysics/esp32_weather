@@ -8,8 +8,9 @@
  Step 2 : Make sure API call is working in your browser and you have got the JSON response
  Step 3 : Use https://arduinojson.org/v5/assistant/ for JSON parsing made easy
  Step 4 : Replace API key with your own key from openweathermap
- Step 5 : Upload the code and check everything is OK
- Step 6 : Make the code efficient and help me  
+ Step 5 : Download and Install ArduinoJson Library using library manager (5.13.2)
+ Step 6 : Upload the code and check everything is OK
+ Step 7 : Make the code efficient and help me  
  */ 
 
 #include <ArduinoJson.h>
