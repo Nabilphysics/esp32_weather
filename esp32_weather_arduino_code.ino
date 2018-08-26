@@ -19,11 +19,11 @@
 //#include <iostream>
 
  
-const char* ssid = "HACKED";
-const char* password =  "python123456";
+const char* ssid = "yourSSID";
+const char* password =  "SSID_Password";
  
 const String endpoint = "http://api.openweathermap.org/data/2.5/weather?id=1185099&units=metric&APPID=";
-const String key = "54de061b9d0ea5ad5635d361df99564e";
+const String key = "your key from openweathermap";
 //http://api.openweathermap.org/data/2.5/weather?id=1185099&units=metric&APPID=54de061b9d0ea5ad5635d361df99564e
  
 void setup() {
